@@ -17,5 +17,7 @@ class ModuloEmail
 
         echo "Email enviado com sucesso. \n";
 
+        return true;
+
     }
 }
